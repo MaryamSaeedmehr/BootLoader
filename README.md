@@ -43,6 +43,13 @@ $ qemu-system-x86_64 boot.bin
 ```
 
 
+# **Output**
+
+
+![BootLoader](https://user-images.githubusercontent.com/49061503/67097242-90ff9b80-f1c6-11e9-9105-996d0cf24481.gif)
+
+
+
 # **Files**
 
 - <a href="https://github.com/MaryamSaeedmehr/BootLoader/blob/master">`/boot.asm`</a> : This is the Main Assembly File
