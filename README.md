@@ -43,3 +43,17 @@ $ qemu-system-x86_64 boot.bin
 ```
 
 
+# **Files**
+
+- <a href="https://github.com/MaryamSaeedmehr/BootLoader/blob/master">`/boot.asm`</a> : This is the Main Assembly File
+- <a href="https://github.com/MaryamSaeedmehr/BootLoader/blob/master">`/Markdown`</a> : This is a Report of the project in Persian
+
+
+
+# **Support**
+
+Reach out to me at one of the following places!
+
+- Telegram at <a href="https://t.me/BitterOcean" target="_blank">@BitterOcean</a>
+- Gmail at <a href="mailto:maryamsaeedmehr@gmail.com" target="_blank">maryamsaeedmehr@gmail.com</a>
+
