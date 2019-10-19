@@ -56,6 +56,9 @@ $ qemu-system-x86_64 boot.bin
 - <a href="https://github.com/MaryamSaeedmehr/BootLoader/blob/master/Markdown.pdf">`/Markdown.pdf`</a> : This is a Report of the project in Persian
 
 
+# **Reference**
+
+- <a href="https://virgool.io/@artin.zareie1383/%D8%A8%D9%88%D8%AA-%D9%84%D9%88%D8%AF%D8%B1-%D8%AF%D8%B1-%D8%A7%D8%B3%D9%85%D8%A8%D9%84%DB%8C-zqq5rt2gmeyi">`@artin.zareie1383_blog`</a>
 
 # **Support**
 
